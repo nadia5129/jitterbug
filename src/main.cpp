@@ -1,3 +1,4 @@
+// angle brackets for built-in library
 #include <bn_core.h> // read by precrocessor
 #include <bn_backdrop.h> // for backdrop functions
 #include <bn_color.h> // for color definitions
@@ -5,9 +6,9 @@
 #include <bn_random.h> // for random functions
 #include <bn_vector.h> // for vector
 #include <bn_keypad.h>  // for keypad input
-// angle brackets for built-in library
 
-#include "bn_sprite_items_bug.h" // "" for specific to project
+// "" for specific to project
+#include "bn_sprite_items_bug.h" 
 
 
 int main(){
